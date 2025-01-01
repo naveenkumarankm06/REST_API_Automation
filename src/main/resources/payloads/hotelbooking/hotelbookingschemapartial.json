@@ -1,0 +1,7 @@
+{
+    "firstname": "Ben",
+    "bookingdates": {
+        "checkin": "2024-02-23",
+        "checkout": "2024-10-23"
+}
+}

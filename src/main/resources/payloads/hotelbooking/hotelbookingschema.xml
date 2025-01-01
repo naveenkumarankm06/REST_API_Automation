@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<booking>
+    <firstname>Mark</firstname>
+    <lastname>Antony</lastname>
+    <totalprice>7777</totalprice>
+    <depositpaid>true</depositpaid>
+    <bookingdates>
+        <checkin>2020-02-23</checkin>
+        <checkout>2021-10-23</checkout>
+    </bookingdates>
+    <additionalneeds>Dinner</additionalneeds>
+</booking>
