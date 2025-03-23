@@ -35,8 +35,8 @@ public class BookingTest extends BaseTest {
 		validateResponseBody("lastname","lastname");
 		validateResponseBody("totalprice","totalprice");
 		validateResponseBody("depositpaid","depositpaid");
-		validateNestedResponseBody("booking.bookingdates.checkin","bookingdates.checkin");
-		validateNestedResponseBody("booking.bookingdates.checkout","bookingdates.checkout");
+		validateNestedResponseBody("bookingdates.checkin","bookingdates.checkin");
+		validateNestedResponseBody("bookingdates.checkout","bookingdates.checkout");
 		validateResponseBody("additionalneeds","additionalneeds");
 	}
 	

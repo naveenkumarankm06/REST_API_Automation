@@ -6,7 +6,7 @@
       <class name="com.hotelbooking.tests.BookingTest">
         <methods>
           <include name="setup"/>
-          <include name="updateBookingId"/>
+          <include name="deleteBookingId"/>
           <include name="validateAssertions"/>
         </methods>
       </class> <!-- com.hotelbooking.tests.BookingTest -->

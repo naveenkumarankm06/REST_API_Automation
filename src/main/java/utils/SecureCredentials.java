@@ -10,7 +10,7 @@ public class SecureCredentials {
     public static void main(String[] args) {
         try {
             // Original data
-            String originalData = "value need to mention";
+            String originalData = "Pass";
 
             // Encrypt
             String encryptedData = encrypt(originalData);
